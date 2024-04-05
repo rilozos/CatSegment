@@ -2,6 +2,7 @@
 
 This project develops a cat segmentation model using MobileNetV2, implemented in PyTorch and utilizing the Torchvision library. Designed specifically for Snap Inc as part of an externship, this model leverages the COCO dataset to accurately segment cats in images, enabling the creation of engaging Snapchat Lenses.
 
+#### Here's my cat!
 ![download](https://github.com/rilozos/CatSegment/assets/112525112/6edeb7c8-b397-4265-bd61-90ef81828c93)
 
 ## Project Overview
